@@ -1,4 +1,4 @@
-from app.utils.utils import calculate_discount, is_even, get_full_name
+from utils.utils import calculate_discount, is_even, get_full_name
 
 
 def test_discount_20():
